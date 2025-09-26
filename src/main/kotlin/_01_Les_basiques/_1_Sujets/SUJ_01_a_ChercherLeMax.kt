@@ -16,9 +16,16 @@ import _10_Demos_et_tests.testerEnLot
  * @return Une liste contenant la valeur maxi suivie de son indice.
  */
 fun firstMax(list: List<Int>): List<Int> {
-    var iMax = 0
-    // A COMPLETER ICI
-    return  listOf(list[iMax], iMax)
+    var maxVal = list[0]
+    var maxIndex = 0
+
+    for (i in list.indices) {
+        if (list[i] > maxVal) {
+            maxVal = list[i]
+            maxIndex = i
+        }
+    }
+    return listOf(maxVal, maxIndex)
 }
 
 /* -------------------
@@ -37,6 +44,7 @@ val listDataTests_01a = listOf(dataTest01_01a, dataTest02_01a)
 fun main() {
     testerEnLot(listDataTests_01a)
     demoEnLot(listDataTests_01a)
+
 }
 
 
