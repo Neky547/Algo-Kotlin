@@ -18,7 +18,12 @@ import _10_Demos_et_tests.testerEnLot
  */
 fun moyennePonderee(listeCoefVal: List<List<Number>>): Double {
     var moyenne = 0.0
-    // A COMPLETER ICI
+    var totalCoef = 0
+    for(tab in listeCoefVal){
+        moyenne += tab[1].toDouble()*tab[0].toDouble()
+        totalCoef += tab[0].toInt()
+    }
+    moyenne /= totalCoef.toDouble()
     return moyenne
 }
 

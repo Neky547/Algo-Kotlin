@@ -17,12 +17,39 @@ import _10_Demos_et_tests.testerEnLot
  * @param list Liste où chercher la valeur.
  * @return Indice de la dernière occurrence de la valeur cherchée.
  */
+//Boucle While
 fun findLastValue(value: Number, list: List<Number>): Int {
-    var iVal = -1
-    // A COMPLETER ICI
-    return iVal
+    var iVal = list[0].toInt()
+    var pos=0
+    var posMax = -1
+    if(value in list){
+
+        while(pos < list.size){
+            val valeur = list[pos].toInt()
+            if(valeur >= iVal){
+                iVal = valeur
+                posMax =pos
+            }
+            pos++
+        }
+    }
+    return posMax
 }
 
+
+/*
+//Boucle For
+fun findLastValue(value: Number, list: List<Number>): Int {
+    var iVal = -1
+    if(value in list){
+        var index = 0
+        for(valeur in list){
+
+        }
+    }
+    return iVal
+}
+ */
 
 /* -------------------
     Données de test

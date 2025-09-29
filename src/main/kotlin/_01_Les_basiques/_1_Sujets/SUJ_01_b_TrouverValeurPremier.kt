@@ -19,11 +19,15 @@ import _10_Demos_et_tests.testerEnLot
  */
 
 fun findFirstValue(value: Number, list: List<Number>): Int {
-    var indice = 0
-    while(indice!=value){
-        indice++
+    var indice: Int = 0
+    if(value in list){
+        while(list[indice]!=value){
+            indice++
+        }
+        return indice
+    } else {
+        return -1
     }
-    return indice
 }
 
 
