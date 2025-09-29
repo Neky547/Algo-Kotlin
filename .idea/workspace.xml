@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algo/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremierKt$dataTest01_01b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algo/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremierKt$dataTest01_01b$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algo/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremierKt$dataTest02_01b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algo/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremierKt$dataTest02_01b$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algo/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremierKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algo/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremierKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_d_NombreOccurrences.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_d_NombreOccurrences.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_e_MoyennePonderee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_e_MoyennePonderee.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_02_Les_classiques/_1_Sujets/SUJ_02_a_RechercheDichotomique.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_02_Les_classiques/_1_Sujets/SUJ_02_a_RechercheDichotomique.kt" afterDir="false" />
-    </list>
+    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
